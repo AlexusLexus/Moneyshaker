@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneyshaker", "Moneyshaker\Moneyshaker.csproj", "{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Shipping|Any CPU = Shipping|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Shipping|Any CPU.ActiveCfg = Shipping|Any CPU
+		{5488893A-30A9-46FC-B2C0-FF20E4C3C4DC}.Shipping|Any CPU.Build.0 = Shipping|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BBA3AC-B417-4E6A-BD81-F4AA59870513}
+	EndGlobalSection
+EndGlobal
